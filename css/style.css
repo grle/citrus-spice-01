@@ -103,6 +103,17 @@ p {
   padding-bottom: var(--padding);
 }
 
+ul {
+  font-size: 1.1rem;
+  line-height: 1.5;
+  padding: 0px 0px 20px var(--padding);
+  /* padding-left: var(--padding); */
+}
+
+li:before {
+  content: "— ";
+}
+
 a {
   text-decoration: none;
   color: var(--orange);
