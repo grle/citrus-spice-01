@@ -39,6 +39,7 @@ button {
   border-bottom: 2px solid var(--background-color);
   color: var(--text-color);
   cursor: pointer;
+  font-weight: 600;
   outline: none;
   padding: var(--padding);
 }
@@ -97,6 +98,7 @@ h4 {
 
 p {
   font-family: 'Poppins', sans-serif;
+  font-size: 1.1rem;
   line-height: 1.5;
   padding-bottom: var(--padding);
 }
