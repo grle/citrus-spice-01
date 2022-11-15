@@ -103,6 +103,10 @@ p {
   padding-bottom: var(--padding);
 }
 
+span {
+  color: var(--orange);
+}
+
 ul {
   font-size: 1.1rem;
   line-height: 1.5;
@@ -201,6 +205,18 @@ footer a:hover {
   footer {
     flex-direction: column;
     text-align: center;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  h3 {
+    font-size: 1.3rem;
   }
 }
 

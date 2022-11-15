@@ -8,7 +8,7 @@ function loadContact() {
     <p>EMAIL: 
     <a href="mailto: citrusandspicedesign@gmail.com">citrusandspicedesign@gmail.com</a>
     </p>
-    <p>PHONE: </p>
+    <p>PHONE: <span>(360) 420-3175</span></p>
   </div>`;
 
   const main = document.getElementById("main");
