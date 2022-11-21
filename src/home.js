@@ -11,7 +11,7 @@ function loadHome() {
       <h1>Who We Are.</h1>
       <h2>Friendly.</h2>
       <p>As a tight-knit studio, we would like to not only help you achieve your goals, but do it in a way where you feel supported and comfortable when working with us. We prioritize our customer’s satisfaction and would love to help you with what you need on your website.</p>
-      <h2>Knowledgeable.</h2>
+      <h2>Knowledgeable. </h2>
       <p>We understand that it can be intimidating to use technology to expand online if this is something you are unfamiliar with. We are happy to offer our assistance in helping you understand everything you need to know. </p>
       <h2>Detail Oriented.</h2>
       <p>There’s a lot of moving parts involved in creating a website. You can trust that we will be able to manage everything and guide you throughout the process to create a stress-free experience. </p>
