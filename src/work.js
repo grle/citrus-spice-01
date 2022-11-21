@@ -4,10 +4,10 @@ function loadWork() {
   work.setAttribute("id", "work");
   work.innerHTML = `<div class="width">
       <h1>Our Work.</h1>
-      <p>Here are some of our past works with previous clients, with our customer’s satisfaction guaranteed. 
+      <p>Here are examples of our work with past clients. 
         You can reach out at 
         <a href="mailto: citrusandspicedesign@gmail.com">citrusandspicedesign@gmail.com</a>
-        if you would like to work with us or get more information. 
+        for more information. 
       </p> 
       <h3>—
         <a href="https://pelzelsauto.com" target="_blank">Pelzel's Auto Repair</a>

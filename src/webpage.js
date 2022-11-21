@@ -25,7 +25,7 @@ function createHeader() {
 
     const serviceButton = document.createElement("button");
     serviceButton.classList.add("button-nav");
-    serviceButton.textContent = "SERVICE";
+    serviceButton.textContent = "SERVICES";
     serviceButton.addEventListener("click", (e) => {
         if (e.target.classList.contains("active")) return;
         setActiveButton(serviceButton);

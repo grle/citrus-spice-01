@@ -5,7 +5,7 @@ function loadService() {
   service.innerHTML = `<div class="width">
     <h1>What We Do.</h1>
       <h2>Digital Strategy</h2>
-      <p>The website we build for you is based on comprehensive research. We can interview stakeholders as well as the users, and research your competitors to optimize the features. Based on the data collected, we can form a plan and design your website accordingly.</p>
+      <p>We build websites based on comprehensive research. We interview stakeholders as well as users and study your competitors to optimize the features. Based on the data collected, we form a strategy for planning and designing your website.</p>
       <p>Includes:</p>
         <ul>
           <li>UX Research</li>
@@ -14,7 +14,7 @@ function loadService() {
         </ul>
 
       <h2>Branding</h2>
-      <p>Branding is all about creating a distinct and cohesive identity, and about how your customers feel about your website. We rely not only on the visual aspects, but also your website’s personality so you can stand out among your competitors.</p>
+      <p>Branding is all about creating a distinct and cohesive identity, especially how your customers feel about your website. We rely not only on the visual aspects but also on your website’s personality to help you stand out among your competitors.</p>
       <p>Includes:</p>
         <ul>
           <li>Logo & Icon</li>
@@ -23,7 +23,7 @@ function loadService() {
         </ul>
       
       <h2>UI/UX Design</h2>
-      <p>UX stands for User Experience, while UI stands for User Interface. Both are necessary to create a seamless experience for your users when they use your website. When we design them, we aim to provide a website that reflects your brand and identity to attract your ideal audience.</p>
+      <p>UX stands for User Experience, while UI stands for User Interface. Both are necessary to create a seamless experience for your users. We aim to design a website that reflects your brand and identity. Attracting your ideal audience is our primary focus.</p>
       <p>Includes:</p>
         <ul>
           <li>Mockups & Wireframes</li>
@@ -32,12 +32,13 @@ function loadService() {
         </ul>
 
       <h2>Website</h2>
-      <p>As a website design agency, we can build a website that best suits your needs. Whether you want more control over your content or if you want us to take care of it for you, we can help you figure out how you want your website to be built. </p>
+      <p>As a website design agency, we can build a website that best suits your needs. Whether you want control over your content or prefer to delegate, we can help you come up with a method that results in a product that you are 100% satisfied with.</p>
       <p>Includes:</p>
         <ul>
           <li>Wix</li>
           <li>Webflow</li>
-          <li>Static Website</li>
+          <li>WordPress/li>
+          <li>Customized Website</li>
         </ul>
     </div>
     
