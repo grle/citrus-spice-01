@@ -22,7 +22,7 @@ function loadHome() {
       <p>Drop us a line at  
       <a href="mailto: citrusandspicedesign@gmail.com">citrusandspicedesign@gmail.com</a>
       </p>
-    </div>`;
+    </div>` ;
 
   const main = document.getElementById("main");
   main.innerHTML = ``;
