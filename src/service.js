@@ -37,7 +37,7 @@ function loadService() {
         <ul>
           <li>Wix</li>
           <li>Webflow</li>
-          <li>WordPress/li>
+          <li>WordPress</li>
           <li>Customized Website</li>
         </ul>
     </div>
