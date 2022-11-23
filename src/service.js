@@ -32,7 +32,7 @@ function loadService() {
         </ul>
 
       <h2>Website</h2>
-      <p>As a website design agency, we can build a website that best suits your needs. Whether you want control over your content or prefer to delegate, we can help you come up with a method that results in a product that you are 100% satisfied with.</p>
+      <p>We customize the website according to your needs and preference. Whether you want control over your content or prefer to delegate, we can help you come up with a method that results in a product that you are 100% satisfied with.</p>
       <p>Includes:</p>
         <ul>
           <li>Wix</li>
